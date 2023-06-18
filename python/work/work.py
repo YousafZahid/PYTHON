@@ -19,9 +19,11 @@ while a == 1:
 print(a)
 
 k = 5;
-for i in range(5,0):
-    print("1", "*")
+for i in range(5,0,-1):
+    print("1"*(i-1), "*")
     
+    
+print("MODIFIED CODE")
       
       
       
