@@ -1,5 +1,3 @@
-# msg = "aaloo le lo"
-# print(msg.upper())
 
   
 #   FOR LOOP
